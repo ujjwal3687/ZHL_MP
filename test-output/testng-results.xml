@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-22T08:59:45Z" name="Suite" finished-at="2019-10-22T09:02:49Z" duration-ms="183287">
+    <groups>
+    </groups>
+    <test started-at="2019-10-22T08:59:45Z" name="ChromeBrowser_Test_Cases" finished-at="2019-10-22T09:01:45Z" duration-ms="119935">
+      <class name="com.test.automation.TestCases.Login_Page_Test_Cases">
+        <test-method is-config="true" signature="Extent_Report_Generation()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T08:59:45Z" name="Extent_Report_Generation" finished-at="2019-10-22T08:59:46Z" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Extent_Report_Generation -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T08:59:47Z" name="login" finished-at="2019-10-22T09:00:04Z" duration-ms="17265" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:04Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:05Z" duration-ms="965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:05Z" name="tear_down" finished-at="2019-10-22T09:00:06Z" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:06Z" name="login" finished-at="2019-10-22T09:00:16Z" duration-ms="9529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:16Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:17Z" duration-ms="916" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:17Z" name="tear_down" finished-at="2019-10-22T09:00:18Z" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:18Z" name="login" finished-at="2019-10-22T09:00:26Z" duration-ms="7895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:26Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:26Z" duration-ms="683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:27Z" name="tear_down" finished-at="2019-10-22T09:00:27Z" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:27Z" name="login" finished-at="2019-10-22T09:00:36Z" duration-ms="8266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:36Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:36Z" duration-ms="757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:37Z" name="tear_down" finished-at="2019-10-22T09:00:38Z" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:38Z" name="login" finished-at="2019-10-22T09:00:46Z" duration-ms="7958" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:46Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:46Z" duration-ms="412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:47Z" name="tear_down" finished-at="2019-10-22T09:00:47Z" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:47Z" name="login" finished-at="2019-10-22T09:00:55Z" duration-ms="7918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:00:55Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:01Z" duration-ms="6196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Invalid password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:02Z" name="tear_down" finished-at="2019-10-22T09:01:02Z" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:02Z" name="login" finished-at="2019-10-22T09:01:11Z" duration-ms="8355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:11Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:17Z" duration-ms="6509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[z12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[User Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:18Z" name="tear_down" finished-at="2019-10-22T09:01:18Z" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:18Z" name="login" finished-at="2019-10-22T09:01:27Z" duration-ms="8710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:27Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:33Z" duration-ms="5786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[X01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[User Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:33Z" name="tear_down" finished-at="2019-10-22T09:01:34Z" duration-ms="1048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:34Z" name="login" finished-at="2019-10-22T09:01:43Z" duration-ms="8628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:43Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:43Z" duration-ms="517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:44Z" name="tear_down" finished-at="2019-10-22T09:01:45Z" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="report_flush()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-22T09:01:45Z" name="report_flush" finished-at="2019-10-22T09:01:45Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_flush -->
+      </class> <!-- com.test.automation.TestCases.Login_Page_Test_Cases -->
+    </test> <!-- ChromeBrowser_Test_Cases -->
+    <test started-at="2019-10-22T08:59:45Z" name="Firefox_Test_Cases" finished-at="2019-10-22T09:02:49Z" duration-ms="183267">
+      <class name="com.test.automation.TestCases.Login_Page_Test_Cases">
+        <test-method is-config="true" signature="Extent_Report_Generation()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T08:59:45Z" name="Extent_Report_Generation" finished-at="2019-10-22T08:59:46Z" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Extent_Report_Generation -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T08:59:47Z" name="login" finished-at="2019-10-22T09:00:15Z" duration-ms="28198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:15Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:16Z" duration-ms="739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:16Z" name="tear_down" finished-at="2019-10-22T09:00:18Z" duration-ms="1751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:18Z" name="login" finished-at="2019-10-22T09:00:34Z" duration-ms="16604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:34Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:35Z" duration-ms="707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:35Z" name="tear_down" finished-at="2019-10-22T09:00:37Z" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:37Z" name="login" finished-at="2019-10-22T09:00:52Z" duration-ms="14857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:52Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:00:53Z" duration-ms="461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:53Z" name="tear_down" finished-at="2019-10-22T09:00:54Z" duration-ms="1793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:00:54Z" name="login" finished-at="2019-10-22T09:01:09Z" duration-ms="14362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:09Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:09Z" duration-ms="453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:09Z" name="tear_down" finished-at="2019-10-22T09:01:12Z" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:12Z" name="login" finished-at="2019-10-22T09:01:26Z" duration-ms="13783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:26Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:26Z" duration-ms="519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:26Z" name="tear_down" finished-at="2019-10-22T09:01:28Z" duration-ms="1828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:28Z" name="login" finished-at="2019-10-22T09:01:42Z" duration-ms="14280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:42Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:01:48Z" duration-ms="5904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Invalid password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:48Z" name="tear_down" finished-at="2019-10-22T09:01:50Z" duration-ms="1651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:01:50Z" name="login" finished-at="2019-10-22T09:02:03Z" duration-ms="13279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:03Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:02:09Z" duration-ms="6270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[z12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[User Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:10Z" name="tear_down" finished-at="2019-10-22T09:02:11Z" duration-ms="1344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:11Z" name="login" finished-at="2019-10-22T09:02:25Z" duration-ms="14030" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:25Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:02:31Z" duration-ms="6135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[X01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[User Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:31Z" name="tear_down" finished-at="2019-10-22T09:02:33Z" duration-ms="1502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:33Z" name="login" finished-at="2019-10-22T09:02:46Z" duration-ms="13613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:46Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-22T09:02:47Z" duration-ms="217" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:47Z" name="tear_down" finished-at="2019-10-22T09:02:49Z" duration-ms="1879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method is-config="true" signature="report_flush()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-22T09:02:49Z" name="report_flush" finished-at="2019-10-22T09:02:49Z" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_flush -->
+      </class> <!-- com.test.automation.TestCases.Login_Page_Test_Cases -->
+    </test> <!-- Firefox_Test_Cases -->
+  </suite> <!-- Suite -->
+</testng-results>

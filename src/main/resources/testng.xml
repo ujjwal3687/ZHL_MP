@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="2" parallel="tests">
+	<listeners> 
+		<listener class-name = "com.test.automation.Listeners.Listeners" />
+	</listeners>  
+
+	 <test name="ChromeBrowser_Test_Cases">
+		<parameter name="browser" value = "Chrome" />  	 
+			<classes>
+      			<class name="com.test.automation.TestCases.Login_Page_Test_Cases"/>
+   			</classes>
+	 </test>  
+	 
+  <test name="Firefox_Test_Cases">
+		<parameter name="browser" value = "firefox" />	 
+			<classes>
+      			<class name="com.test.automation.TestCases.Login_Page_Test_Cases"/>
+   			</classes> 
+	 </test>  
+</suite> 
