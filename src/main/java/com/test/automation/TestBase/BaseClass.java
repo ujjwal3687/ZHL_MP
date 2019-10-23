@@ -179,7 +179,7 @@ public class BaseClass
 		Assert.assertEquals(actual_msg, expected_msg);
 	}
 	
-	//Removing space
+	//Test
 	@BeforeTest
 	public void Extent_Report_Generation() throws IOException
 	{
