@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="15" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite thread-count="2" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.test.automation.Listeners.Listeners"/>
   </listeners>
-  <test thread-count="15" parallel="tests" name="ChromeBrowser_Test_Cases(failed)">
-    <parameter name="browser" value="Chrome"/>
+  <test thread-count="2" parallel="tests" name="Firefox_Test_Cases(failed)">
+    <parameter name="browser" value="firefox"/>
     <classes>
       <class name="com.test.automation.TestCases.Login_Page_Test_Cases">
         <methods>
-          <include name="Login_To_App" invocation-numbers="0 0 0"/>
           <include name="report_flush"/>
           <include name="Extent_Report_Generation"/>
           <include name="tear_down"/>
           <include name="login"/>
+          <include name="Login"/>
         </methods>
       </class> <!-- com.test.automation.TestCases.Login_Page_Test_Cases -->
     </classes>
-  </test> <!-- ChromeBrowser_Test_Cases(failed) -->
+  </test> <!-- Firefox_Test_Cases(failed) -->
 </suite> <!-- Failed suite [Suite] -->
