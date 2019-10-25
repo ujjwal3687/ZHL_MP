@@ -4,8 +4,8 @@
   <listeners>
     <listener class-name="com.test.automation.Listeners.Listeners"/>
   </listeners>
-  <test thread-count="2" parallel="tests" name="Firefox_Test_Cases(failed)">
-    <parameter name="browser" value="firefox"/>
+  <test thread-count="2" parallel="tests" name="ChromeBrowser_Test_Cases(failed)">
+    <parameter name="browser" value="Chrome"/>
     <classes>
       <class name="com.test.automation.TestCases.Login_Page_Test_Cases">
         <methods>
@@ -17,5 +17,5 @@
         </methods>
       </class> <!-- com.test.automation.TestCases.Login_Page_Test_Cases -->
     </classes>
-  </test> <!-- Firefox_Test_Cases(failed) -->
+  </test> <!-- ChromeBrowser_Test_Cases(failed) -->
 </suite> <!-- Failed suite [Suite] -->

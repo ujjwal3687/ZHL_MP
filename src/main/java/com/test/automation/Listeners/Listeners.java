@@ -25,7 +25,7 @@ public class Listeners extends BaseClass implements IRetryAnalyzer, ITestListene
 		{
 			Object current_browser_instance = result.getInstance();
 			driver = ((BaseClass)current_browser_instance).getDriver();
-			String path = Capture_Screenshot("Passed_Test_Cases",result.getName());
+			String path = Capture_Screenshot(driver, "Passed_Test_Cases",result.getName());
 			logger = Logger.getLogger("com.test.automation.Listeners.Listeners");
 			logger.info("<<<<<<<<<<<<<<<<<<<<Marking Pass and highlighting the label to Green Color in Reports>>>>>>>>>>>>>>>>");
 			test = test.pass(MarkupHelper.createLabel(result.getName(), ExtentColor.GREEN));
@@ -45,7 +45,7 @@ public class Listeners extends BaseClass implements IRetryAnalyzer, ITestListene
 		{
 			Object current_browser_instance = result.getInstance();
 			driver = ((BaseClass)current_browser_instance).getDriver();
-			String path = Capture_Screenshot("Failed_Test_Cases",result.getName());
+			String path = Capture_Screenshot(driver, "Failed_Test_Cases",result.getName());
 			logger = Logger.getLogger("com.test.automation.Listeners.Listeners");
 			logger.info("<<<<<<<<<<<<<<<<<<<<Marking Fail and highlighting the label to Red Color in Reports>>>>>>>>>>>>>>>>");
 			test = test.fail(MarkupHelper.createLabel(result.getThrowable().getMessage(), ExtentColor.RED));
@@ -65,7 +65,7 @@ public class Listeners extends BaseClass implements IRetryAnalyzer, ITestListene
 		{
 			Object current_browser_instance = result.getInstance();
 			driver = ((BaseClass)current_browser_instance).getDriver();
-			String path = Capture_Screenshot("Skipped_Test_Cases",result.getName());
+			String path = Capture_Screenshot(driver, "Skipped_Test_Cases",result.getName());
 			logger = Logger.getLogger("com.test.automation.Listeners.Listeners");
 			logger.info("<<<<<<<<<<<<<<<<<<<<Marking Skip and highlighting the label to blue Color in Reports>>>>>>>>>>>>>>>>");
 			test = test.skip(MarkupHelper.createLabel(result.getThrowable().getMessage(), ExtentColor.BLUE));

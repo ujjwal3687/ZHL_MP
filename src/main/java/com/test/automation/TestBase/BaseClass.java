@@ -142,7 +142,7 @@ public class BaseClass
 		return date;
 	}
 	
-	public String Capture_Screenshot(String Sub_Folder_Name, String image_name) throws Exception
+	public String Capture_Screenshot(WebDriver driver, String Sub_Folder_Name, String image_name) throws Exception
 	{
 		TakesScreenshot TS = (TakesScreenshot) driver;
 		File src = TS.getScreenshotAs(OutputType.FILE);
@@ -161,12 +161,12 @@ public class BaseClass
 		XSSFSheet sheet = wb.getSheet(Sheet_Name);
 		int rows = sheet.getLastRowNum();
 		int columns  = sheet.getRow(0).getLastCellNum();
-		Object data[][] = new Object[rows][columns];
+		Object data[][] = new Object[rows][columns-1];
 		for(int i=0; i<rows; i++)
 		{
-			for(int j=0; j<columns; j++)
+			for(int j=0; j<columns-1; j++)
 			{
-				data[i][j] = sheet.getRow(i + 1).getCell(j).toString();
+				data[i][j] = sheet.getRow(i + 1).getCell(j + 1).toString();
 			}
 		}
 		wb.close();
@@ -178,8 +178,7 @@ public class BaseClass
 		String actual_msg = driver.findElement(By.xpath(xpathExpression)).getText();
 		Assert.assertEquals(actual_msg, expected_msg);
 	}
-	
-	//Test  Again  
+	 
 	@BeforeTest
 	public void Extent_Report_Generation() throws IOException
 	{
@@ -190,8 +189,7 @@ public class BaseClass
 		reports = new ExtentReports();
 		reports.attachReporter(reporter);
 	}
-	
-	// Adding space Test Annotation
+
 	@AfterTest
 	public void report_flush()
 	{

@@ -12,7 +12,7 @@
    			</classes>
 	 </test>  
 	 
-   <test name="Firefox_Test_Cases">
+ 	  <test name="Firefox_Test_Cases">
 		<parameter name="browser" value = "Firefox" />	 
 			<classes>
       			<class name="com.test.automation.TestCases.Login_Page_Test_Cases"/>

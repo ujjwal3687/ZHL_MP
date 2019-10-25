@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-10-24T06:16:28Z" name="Suite" finished-at="2019-10-24T06:19:13Z" duration-ms="164966">
+  <suite started-at="2019-10-25T05:55:12Z" name="Suite" finished-at="2019-10-25T05:58:09Z" duration-ms="176978">
     <groups>
     </groups>
-    <test started-at="2019-10-24T06:16:28Z" name="ChromeBrowser_Test_Cases" finished-at="2019-10-24T06:18:20Z" duration-ms="112212">
+    <test started-at="2019-10-25T05:55:12Z" name="ChromeBrowser_Test_Cases" finished-at="2019-10-25T05:57:24Z" duration-ms="131521">
       <class name="com.test.automation.TestCases.Login_Page_Test_Cases">
-        <test-method is-config="true" signature="Extent_Report_Generation()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:28Z" name="Extent_Report_Generation" finished-at="2019-10-24T06:16:28Z" duration-ms="394" status="PASS">
+        <test-method is-config="true" signature="Extent_Report_Generation()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:12Z" name="Extent_Report_Generation" finished-at="2019-10-25T05:55:12Z" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Extent_Report_Generation -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:29Z" name="login" finished-at="2019-10-24T06:16:39Z" duration-ms="10362" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:14Z" name="login" finished-at="2019-10-25T05:55:34Z" duration-ms="20598" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:39Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:16:40Z" duration-ms="810" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:34Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:55:35Z" duration-ms="508" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,11 +53,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:41Z" name="tear_down" finished-at="2019-10-24T06:16:41Z" duration-ms="698" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:35Z" name="tear_down" finished-at="2019-10-25T05:55:36Z" duration-ms="741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:41Z" name="login" finished-at="2019-10-24T06:16:49Z" duration-ms="7821" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:36Z" name="login" finished-at="2019-10-25T05:55:56Z" duration-ms="20323" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -68,7 +68,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:49Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:16:50Z" duration-ms="713" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:56Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:55:57Z" duration-ms="628" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,11 +99,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:50Z" name="tear_down" finished-at="2019-10-24T06:16:51Z" duration-ms="803" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:57Z" name="tear_down" finished-at="2019-10-25T05:55:58Z" duration-ms="856" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:16:51Z" name="login" finished-at="2019-10-24T06:17:00Z" duration-ms="9253" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:55:58Z" name="login" finished-at="2019-10-25T05:56:06Z" duration-ms="7528" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -114,7 +114,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:00Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:01Z" duration-ms="599" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:06Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:07Z" duration-ms="766" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -145,11 +145,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:01Z" name="tear_down" finished-at="2019-10-24T06:17:02Z" duration-ms="844" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:07Z" name="tear_down" finished-at="2019-10-25T05:56:08Z" duration-ms="1206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:02Z" name="login" finished-at="2019-10-24T06:17:11Z" duration-ms="9289" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:08Z" name="login" finished-at="2019-10-25T05:56:17Z" duration-ms="8661" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -160,7 +160,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:11Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:12Z" duration-ms="423" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:17Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:18Z" duration-ms="526" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -191,11 +191,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:12Z" name="tear_down" finished-at="2019-10-24T06:17:13Z" duration-ms="651" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:18Z" name="tear_down" finished-at="2019-10-25T05:56:19Z" duration-ms="661" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:13Z" name="login" finished-at="2019-10-24T06:17:21Z" duration-ms="8553" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:19Z" name="login" finished-at="2019-10-25T05:56:27Z" duration-ms="8596" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -206,7 +206,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:21Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:22Z" duration-ms="562" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:27Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:28Z" duration-ms="427" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -237,11 +237,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:22Z" name="tear_down" finished-at="2019-10-24T06:17:23Z" duration-ms="943" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:28Z" name="tear_down" finished-at="2019-10-25T05:56:29Z" duration-ms="662" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:23Z" name="login" finished-at="2019-10-24T06:17:32Z" duration-ms="9041" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:29Z" name="login" finished-at="2019-10-25T05:56:36Z" duration-ms="7758" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -252,7 +252,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:32Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:38Z" duration-ms="5461" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:36Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:42Z" duration-ms="5676" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -283,11 +283,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:38Z" name="tear_down" finished-at="2019-10-24T06:17:39Z" duration-ms="1129" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:42Z" name="tear_down" finished-at="2019-10-25T05:56:43Z" duration-ms="671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:39Z" name="login" finished-at="2019-10-24T06:17:47Z" duration-ms="8189" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:43Z" name="login" finished-at="2019-10-25T05:56:52Z" duration-ms="8958" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -298,7 +298,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:47Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:53Z" duration-ms="5380" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:52Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:58Z" duration-ms="5575" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -329,11 +329,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:53Z" name="tear_down" finished-at="2019-10-24T06:17:54Z" duration-ms="644" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:58Z" name="tear_down" finished-at="2019-10-25T05:56:59Z" duration-ms="655" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:17:54Z" name="login" finished-at="2019-10-24T06:18:02Z" duration-ms="7936" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:56:59Z" name="login" finished-at="2019-10-25T05:57:07Z" duration-ms="8089" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -344,7 +344,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:18:02Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:18:07Z" duration-ms="5430" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:57:07Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:57:12Z" duration-ms="5683" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -375,11 +375,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:18:07Z" name="tear_down" finished-at="2019-10-24T06:18:08Z" duration-ms="735" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:57:13Z" name="tear_down" finished-at="2019-10-25T05:57:14Z" duration-ms="799" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:18:08Z" name="login" finished-at="2019-10-24T06:18:17Z" duration-ms="8593" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:57:14Z" name="login" finished-at="2019-10-25T05:57:22Z" duration-ms="8130" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -390,7 +390,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:18:17Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:18:17Z" duration-ms="480" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:57:22Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:57:22Z" duration-ms="414" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -421,23 +421,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:18:18Z" name="tear_down" finished-at="2019-10-24T06:18:19Z" duration-ms="1242" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:57:23Z" name="tear_down" finished-at="2019-10-25T05:57:23Z" duration-ms="638" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="report_flush()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@236e3f4e]" started-at="2019-10-24T06:18:19Z" name="report_flush" finished-at="2019-10-24T06:18:20Z" duration-ms="1013" status="PASS">
+        <test-method is-config="true" signature="report_flush()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@3cc1435c]" started-at="2019-10-25T05:57:23Z" name="report_flush" finished-at="2019-10-25T05:57:24Z" duration-ms="527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- report_flush -->
       </class> <!-- com.test.automation.TestCases.Login_Page_Test_Cases -->
     </test> <!-- ChromeBrowser_Test_Cases -->
-    <test started-at="2019-10-24T06:16:28Z" name="Firefox_Test_Cases" finished-at="2019-10-24T06:19:13Z" duration-ms="164953">
+    <test started-at="2019-10-25T05:55:12Z" name="Firefox_Test_Cases" finished-at="2019-10-25T05:58:09Z" duration-ms="176977">
       <class name="com.test.automation.TestCases.Login_Page_Test_Cases">
-        <test-method is-config="true" signature="Extent_Report_Generation()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:16:28Z" name="Extent_Report_Generation" finished-at="2019-10-24T06:16:28Z" duration-ms="158" status="PASS">
+        <test-method is-config="true" signature="Extent_Report_Generation()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:55:12Z" name="Extent_Report_Generation" finished-at="2019-10-25T05:55:13Z" duration-ms="518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Extent_Report_Generation -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:16:29Z" name="login" finished-at="2019-10-24T06:16:45Z" duration-ms="16446" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:55:14Z" name="login" finished-at="2019-10-25T05:55:43Z" duration-ms="29295" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -448,7 +448,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:16:45Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:16:46Z" duration-ms="652" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:55:43Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:55:44Z" duration-ms="752" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -479,11 +479,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:16:46Z" name="tear_down" finished-at="2019-10-24T06:16:47Z" duration-ms="1416" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:55:44Z" name="tear_down" finished-at="2019-10-25T05:55:45Z" duration-ms="1337" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:16:47Z" name="login" finished-at="2019-10-24T06:17:02Z" duration-ms="14966" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:55:45Z" name="login" finished-at="2019-10-25T05:56:03Z" duration-ms="18164" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -494,7 +494,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:02Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:04Z" duration-ms="1273" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:03Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:04Z" duration-ms="640" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -525,11 +525,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:04Z" name="tear_down" finished-at="2019-10-24T06:17:06Z" duration-ms="2593" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:04Z" name="tear_down" finished-at="2019-10-25T05:56:06Z" duration-ms="1463" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:06Z" name="login" finished-at="2019-10-24T06:17:19Z" duration-ms="12750" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:06Z" name="login" finished-at="2019-10-25T05:56:20Z" duration-ms="14216" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -540,7 +540,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:19Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:20Z" duration-ms="433" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:20Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:20Z" duration-ms="545" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -571,11 +571,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:20Z" name="tear_down" finished-at="2019-10-24T06:17:23Z" duration-ms="2843" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:21Z" name="tear_down" finished-at="2019-10-25T05:56:22Z" duration-ms="1594" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:23Z" name="login" finished-at="2019-10-24T06:17:37Z" duration-ms="14263" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:22Z" name="login" finished-at="2019-10-25T05:56:35Z" duration-ms="13265" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -586,7 +586,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:37Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:37Z" duration-ms="444" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:35Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:36Z" duration-ms="449" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -617,11 +617,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:37Z" name="tear_down" finished-at="2019-10-24T06:17:39Z" duration-ms="1824" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:36Z" name="tear_down" finished-at="2019-10-25T05:56:38Z" duration-ms="1517" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:39Z" name="login" finished-at="2019-10-24T06:17:54Z" duration-ms="14575" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:38Z" name="login" finished-at="2019-10-25T05:56:50Z" duration-ms="12454" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -632,7 +632,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:54Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:17:54Z" duration-ms="425" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:50Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:56:51Z" duration-ms="569" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -663,11 +663,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:54Z" name="tear_down" finished-at="2019-10-24T06:17:56Z" duration-ms="2048" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:51Z" name="tear_down" finished-at="2019-10-25T05:56:53Z" duration-ms="1998" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:17:56Z" name="login" finished-at="2019-10-24T06:18:09Z" duration-ms="12523" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:56:53Z" name="login" finished-at="2019-10-25T05:57:06Z" duration-ms="12834" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -678,7 +678,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:09Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:18:15Z" duration-ms="5647" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:06Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:57:12Z" duration-ms="6514" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -709,11 +709,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:15Z" name="tear_down" finished-at="2019-10-24T06:18:17Z" duration-ms="2234" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:12Z" name="tear_down" finished-at="2019-10-25T05:57:13Z" duration-ms="1298" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:17Z" name="login" finished-at="2019-10-24T06:18:30Z" duration-ms="13162" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:13Z" name="login" finished-at="2019-10-25T05:57:27Z" duration-ms="13987" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -724,7 +724,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:30Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:18:35Z" duration-ms="5448" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:27Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:57:33Z" duration-ms="5480" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -755,11 +755,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:36Z" name="tear_down" finished-at="2019-10-24T06:18:37Z" duration-ms="1476" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:33Z" name="tear_down" finished-at="2019-10-25T05:57:34Z" duration-ms="1330" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:37Z" name="login" finished-at="2019-10-24T06:18:50Z" duration-ms="13174" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:34Z" name="login" finished-at="2019-10-25T05:57:47Z" duration-ms="13085" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -770,7 +770,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:50Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:18:56Z" duration-ms="5547" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:47Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:57:53Z" duration-ms="5538" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -801,11 +801,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:56Z" name="tear_down" finished-at="2019-10-24T06:18:57Z" duration-ms="1458" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:53Z" name="tear_down" finished-at="2019-10-25T05:57:54Z" duration-ms="1217" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:18:57Z" name="login" finished-at="2019-10-24T06:19:11Z" duration-ms="13510" status="PASS">
+        <test-method is-config="true" signature="login(java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:57:54Z" name="login" finished-at="2019-10-25T05:58:07Z" duration-ms="13254" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -816,7 +816,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:19:11Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-24T06:19:11Z" duration-ms="264" status="PASS">
+        <test-method signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:58:07Z" name="Login" data-provider="get_Excel_Data" finished-at="2019-10-25T05:58:08Z" duration-ms="207" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -847,11 +847,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:19:11Z" name="tear_down" finished-at="2019-10-24T06:19:13Z" duration-ms="1442" status="PASS">
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:58:08Z" name="tear_down" finished-at="2019-10-25T05:58:09Z" duration-ms="1217" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-        <test-method is-config="true" signature="report_flush()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@2177849e]" started-at="2019-10-24T06:19:13Z" name="report_flush" finished-at="2019-10-24T06:19:13Z" duration-ms="124" status="PASS">
+        <test-method is-config="true" signature="report_flush()[pri:0, instance:com.test.automation.TestCases.Login_Page_Test_Cases@40cb8df7]" started-at="2019-10-25T05:58:09Z" name="report_flush" finished-at="2019-10-25T05:58:09Z" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- report_flush -->
